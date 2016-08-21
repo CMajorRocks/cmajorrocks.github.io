@@ -37,7 +37,7 @@ author: CMajor
     <iframe src="http://player.youku.com/embed/XMzM0MDY0NDgw" frameborder="0" allowfullscreen></iframe>
 </div>
 
-下面是视频里最后的对白，我最喜欢的部分也是转调的瞬间。
+下面是视频里最后的对白，我最喜欢的部分也是转调的瞬间！
 
 > Yeah, this arrangement is dedicated to my little daughter Sarah.
 > My 7 years old cute little Sarah. She loves this song by Taylor Swift.
