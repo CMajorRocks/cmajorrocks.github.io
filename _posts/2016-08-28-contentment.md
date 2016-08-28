@@ -39,8 +39,8 @@ author: CMajor
 
 <a href="http://www.cmajor.me/scores/mayday/contentment.pdf" target="_blank">http://www.cmajor.me/scores/mayday/contentment.pdf</a>
 
-#### What's your story?
------------------------
+#### What's your story
+----------------------
 
 之前注册了 <a href="http://mayday.band" target="_blank">mayday.band</a> 这个域名，啊啊啊太高兴了。
 然后做了一个主页，这个主页有一些空白的格子，拼起来是数字 5，
