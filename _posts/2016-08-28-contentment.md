@@ -45,6 +45,6 @@ author: CMajor
 之前注册了 <a href="http://mayday.band" target="_blank">mayday.band</a> 这个域名，啊啊啊太高兴了。
 然后做了一个主页，这个主页有一些空白的格子，拼起来是数字 5，
 于是就想收集一些你和五月天的故事，这些故事会被放到这些格子里面。
-在微博中关注并私信 @CMajor音乐，分享你的故事，收录了的话可以获得五月天的周边礼物哦〜
+在微博中关注并私信 <a href="http://weibo.com/cmajormusic" target="_blank">@CMajor音乐</a>，分享你的故事，收录了的话可以获得五月天的周边礼物哦〜
 
 那么，你的故事是什么？
